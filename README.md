@@ -29,12 +29,12 @@
 
 ![Alt text](img/ConectarConGit4.JPG)	
 
-	Cada cambio que se realice en el repositorio, automaticamente será desplegado y se actualizará 
+	Cada cambio que se realice en el repositorio,  será desplegado y se actualizará 
 	automaticamente
 	
 ![Alt text](img/ConectarConGit5.JPG)	
 
-	Cuando termine el despliegue, se podrá llamar la por medio de la URL creada
+	Cuando termine el despliegue, se podrá llamar la página por medio de la URL creada
 	
 ![Alt text](img/tituloAntes.JPG)	
 
